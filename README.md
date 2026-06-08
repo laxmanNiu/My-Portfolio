@@ -197,3 +197,6 @@ If you found this project useful, consider giving it a star on GitHub.
 Made with ❤️ by Laxman Singh
 
 Aspiring Software Engineer | Java Developer | Problem Solver | GATE CSE Aspirant
+## 📜 License
+
+This project is licensed under the MIT License.

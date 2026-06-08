@@ -276,3 +276,19 @@ max-width:300px;
 .btn:hover{
     transform:translateY(-3px);
 }
+.project-btn{
+    display:inline-block;
+    margin-top:15px;
+    padding:10px 20px;
+    background:#7c3aed;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:600;
+    transition:0.3s;
+}
+
+.project-btn:hover{
+    background:#9333ea;
+    transform:translateY(-3px);
+}
