@@ -194,12 +194,6 @@ If you found this project useful, consider giving it a star on GitHub.
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-Made with ❤️ by Kaalu
+Made with ❤️ by Laxman Singh
 
 Aspiring Software Engineer | Java Developer | Problem Solver | GATE CSE Aspirant
